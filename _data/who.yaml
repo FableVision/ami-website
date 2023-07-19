@@ -1,0 +1,13 @@
+- name: Museum Rietberg
+  url: https://rietberg.ch
+  image: speed.png
+- name: Creaviva
+  url: https://www.creaviva-zpk.org
+  image: speed.png
+- name: Fondation Beyeler
+  url: https://www.fondationbeyeler.ch/
+  image: speed.png
+- name: SFMoMA
+  url: https://www.sfmoma.org/
+  image: speed.png
+

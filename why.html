@@ -1,0 +1,78 @@
+---
+layout: default
+theme: yellow
+lang: en
+---
+
+<h1>{{ site.data.text.who_header[page.lang] }}</h1>
+
+<ul id="partner-buttons" class="horizontal-image-buttons">
+{% for item in site.data.why %}
+  <li>
+    <button value="{{ item.name }}" style="background-image: url('/img/{{ item.image }}');" onclick="buttonClick(event)">
+      {{ item.name }}
+    </button>
+  </li>
+{% endfor %}
+</ul>
+
+<div id="desc-text">
+  <div class="body-text">
+    {{ site.data.text.why[page.lang] | markdownify }}
+  </div>
+{% for item in site.data.why %}
+  <div id="{{ item.name }}" class="partner-desc hidden">
+    <div class="partner-portraits">
+      {% for person in item.people %}
+      <button value="{{ person.name }}" class="portrait-image" style="background-image: url('/img/{{ person.image }}');" onclick="showDesc(`{{ person.name }}`, `{{ person.bio | markdownify | xml_escape }}`)"></button>
+      {% endfor %}
+    </div>
+    <div>{{ item.overview | markdownify }}</div>
+  </div>
+{% endfor %}
+
+</div>
+
+<div id="popup" class="hidden">
+  <button id="close-popup" onclick="closePopup()">Close popup</button>
+  <h2 id="popup-title"></h2>
+  <div id="popup-desc"></div>
+</div>
+
+{% include footer.html %}
+
+
+<script>
+  function buttonClick(event) {
+    console.log('click event', event);
+    let descElems = document.querySelectorAll('#desc-text > div');
+    let buttonElems = document.querySelectorAll('#partner-buttons button');
+    for (let item of buttonElems) {
+      if (item.value === event.currentTarget.value) {
+        item.classList.remove('faded');
+      } else {
+        item.classList.add('faded');
+      }
+    }
+    for (let item of descElems) {
+      if (item.id === event.currentTarget.value) {
+        item.classList.remove('hidden');
+      } else {
+        item.classList.add('hidden');
+      }
+    }
+  }
+
+  function showDesc(title, text) {
+    let popup = document.getElementById('popup');
+    popup.classList.remove('hidden');
+    let titleElem = document.getElementById('popup-title');
+    let descElem = document.getElementById('popup-desc');
+    titleElem.innerHTML = (title);
+    descElem.innerHTML = (text);
+  }
+  function closePopup() {
+    let popup = document.getElementById('popup');
+    popup.classList.add('hidden');
+  }
+</script>

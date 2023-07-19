@@ -1,0 +1,20 @@
+---
+layout: default
+theme: purple
+---
+
+<h1>Events</h1>
+
+<div class="events-container">
+  {% assign events = site.data.events | sort: "iso_date" %}
+  {% for event in events %}
+  <div class="event">
+    <time datetime="{{ event.iso_date }}">{{ event.date }}</time>
+    <div>{{ event.description | markdownify }}</div>
+  </div>
+  {% endfor %}
+</div>
+
+<footer class="events-footer">
+  <button>Join us</button>
+</footer>

@@ -1,0 +1,45 @@
+---
+layout: default
+---
+
+<div class="project-container">
+  <div class="project-left">
+    <h1>{% if page.coming_soon %}{{ site.data.text.coming_soon[page.lang] }}{% else %}{{ page.title }}{% endif %}</h1>
+
+    <div class="project-text">
+      {{ content }}
+    </div>
+
+    {% if page.carousel != nil %}
+    <div class="image-carousel">
+      {% for item in page.carousel %}
+        <button value="{{ forloop.index }}" onclick="showImage('{{ item }}')"><img src="/img/{{ page.assets_folder }}/{{ item }}"></button>
+      {% endfor %}
+    </div>
+    {% endif %}
+
+    {% if page.design_doc != nil %}
+    <a href="{{ page.design_doc }}" class="gdd-link">{{ site.data.text.project_gdd[page.lang] }}</a>
+    {% endif %}
+
+  </div>
+
+  <div class="project-right">
+    {% if page.carousel != nil %}
+    <img id="big-image" src="/img/{{ page.assets_folder }}/{{ page.carousel.first }}">
+    {% endif %}
+  </div>
+
+</div>
+
+
+{% include footer.html %}
+
+
+<script>
+  function showImage(url) {
+    let img = document.getElementById('big-image');
+    img.setAttribute('src', '/img/{{ page.assets_folder }}/' + url)
+  }
+
+</script>
