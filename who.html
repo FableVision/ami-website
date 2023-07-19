@@ -4,6 +4,7 @@ title: "AMI | Art + Museums Interacting"
 excerpt: "Art + Museums Interacting"
 lang: en
 theme: cyan
+logo: ami_logo_pink.png
 ---
 
 <h1>{{ site.data.text.who_header[page.lang] }}</h1>
@@ -11,7 +12,7 @@ theme: cyan
 <ul class="horizontal-image-links">
 {% for partner in site.data.who %}
   <li>
-    <a href="{{ partner.url }}" style="background-image: url('/img/{{ partner.image }}');">
+    <a href="{{ partner.url }}" style="background-image: url('/img/who/{{ partner.image }}');">
       {{ partner.name }}
     </a>
   </li>

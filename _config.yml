@@ -36,4 +36,5 @@ defaults:
       collection: projects
       layout: project
       theme: magenta
+      logo: ami_logo_aqua.png
       permalink: /:collection/:title/
