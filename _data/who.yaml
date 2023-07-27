@@ -1,13 +1,13 @@
 - name: Museum Rietberg
   url: https://rietberg.ch
-  image: Rietberg_Zuerich_Villa_Wesendonck.jpeg
+  image: fellows_01.png
 - name: Creaviva
   url: https://www.creaviva-zpk.org
-  image: Creaviva_zentrum_Paul_Klee.jpeg
+  image: fellows_02.png
 - name: Fondation Beyeler
   url: https://www.fondationbeyeler.ch/
-  image: Fondation Beyeler Photo.jpeg
+  image: fellows_03.png
 - name: SFMoMA
   url: https://www.sfmoma.org/
-  image: SFMoMA.jpeg
+  image: fellows_04.png
 
