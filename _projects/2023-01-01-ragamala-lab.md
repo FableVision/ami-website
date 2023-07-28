@@ -1,10 +1,11 @@
 ---
-title: "Rietberg Project 1: The Ragamala Lab"
+title: "Rietberg Projekt 1: Das Ragamala-Labor"
 year: 2023
 lang: en
 assets_folder: 'ragamala-lab'
-carousel: ["Angels-Egg-003110-0007.png", "Attachment 4.jpeg","DWSFQJbXkAERo54.jpeg","noio_games-1090655807627239424.jpg","vagrant-story-001.png","vagrant-story-003.png"]
+thumbnail: "BB7C34EC-1D72-4218-A8B0-220D93B72D2C.png"
+carousel: ["Rietberg_web_1.jpeg","Rietberg_web_2.jpeg","RIetberg_web_3.jpg","RIetberg_web_4.jpg","Rietberg_web_5.jpg","Rietberg_web_6.jpeg","Rietberg_web_7.jpg","Rietberg_web_8.jpg"]
 design_doc: https://www.fablevision.com/
 ---
 
-The Rietberg Museum chose to focus all three of their projects on an upcoming 2024 exhibit about Indian Ragamalas. The Indian Ragamala combines Indian music, poetry, and painting. This first project, the Ragamala Lab, had participants submitting their own reaction to Indian Ragamalas through creative responses on postcards. The intent was to build visibility for the upcoming exhibit by allowing participants to listen and look at the Ragamala and then respond with their own words, poetry, or drawing.
+Das Museum Rietberg hat sich dazu entschlossen, alle drei Projekte auf eine für 2024 geplante Ausstellung über indische Ragamalas zu beziehen. Das indische Ragamala verbindet indische Musik, Poesie und Malerei. Bei diesem ersten Projekt, dem Ragamala-Labor, konnten die Teilnehmer:innen ihre eigene Wahrnehmung auf indische Ragamalas durch kreative Antworten auf Postkarten einreichen. Ziel war es, die Sichtbarkeit der bevorstehenden Ausstellung zu erhöhen, indem die Teilnehmer:innen die Ragamalas anhören und betrachten und dann darauf mit eigenen Worten, Gedichten oder Zeichnungen reagieren konnten.

@@ -1,11 +1,11 @@
 ---
-title: "Creaviva Project 2: Collective NFT"
+title: "Creaviva Projekt 2: Kollektives NFT"
 year: 2023
 lang: en
-assets_folder: 'ragamala-lab'
-image: "Angels-Egg-003110-0007.png"
-carousel: ["Attachment 4.jpeg","DWSFQJbXkAERo54.jpeg","noio_games-1090655807627239424.jpg","vagrant-story-001.png","vagrant-story-003.png"]
+assets_folder: 'creaviva-project-2'
+thumbnail: "Creaviva_web_8.jpg"
+carousel: ["Creaviva_web_1.jpg","Creaviva_web_2.jpg","Creaviva_web_3.jpg","Creaviva_web_4.jpg","Creaviva_web_5.jpg","Creaviva_web_6.jpg","Creaviva_web_7.jpg"]
 design_doc: https://www.fablevision.com/
 ---
 
-The goal for this prototype was to make something accessible to all people, even outside the museum. The museum used Instagram to source volunteers’ photos of colors, shapes, and textures found in everyday life and then compiled those images to make an NFT. To build and share the NFT, pillows with QR codes were placed in the parks surrounding the museum so that the larger community could appreciate the collaborative art piece. 
+Das Ziel dieses Prototyps war es, Dinge im Alltag mit dem Auge der Kunst zu betrachten und ein gemeinsam entstandenes Werk auch ausserhalb des Museums für alle Menschen zugänglich zu machen. Creaviva nutzte Instagram, um von Teilnehmer:innen Close-up-Fotos von Farben, Formen und Texturen aus dem Alltag zu erhalten. Darauf aufmerksam wurden sie durch auf Kissen aufgedruckte QR-Codes. Die Kissen können beispielsweise in Parks aufgelegt werden. Mit den gesammelten Impressionen entstand danach ein gemeinsames NFT.
