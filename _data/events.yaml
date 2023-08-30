@@ -4,7 +4,10 @@
 
 - date: August 8, 2023
   iso_date: 2023-08-19
-  description: "here's a sample event for you! Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non curabitur gravida arcu ac. Velit laoreet id donec ultrices tincidunt arcu. Parturient montes nascetur ridiculus mus mauris vitae ultricies. Sit amet commodo nulla facilisi nullam vehicula ipsum. here's a sample event for you! Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non curabitur gravida arcu ac. Velit laoreet id donec ultrices tincidunt arcu. Parturient montes nascetur ridiculus mus mauris vitae ultricies. Sit amet commodo nulla facilisi nullam vehicula ipsum. here's a sample event for you! Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non curabitur gravida arcu ac. Velit laoreet id donec ultrices tincidunt arcu. Parturient montes nascetur ridiculus mus mauris vitae ultricies. Sit amet commodo nulla facilisi nullam vehicula ipsum."
+  description: |
+    here's a sample event for you! Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non curabitur gravida arcu ac. Velit laoreet id donec ultrices tincidunt arcu. Parturient montes nascetur ridiculus mus mauris vitae ultricies. Sit amet commodo nulla facilisi nullam vehicula ipsum. here's a sample event for you! Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non curabitur gravida arcu ac. Velit laoreet id donec ultrices tincidunt arcu. Parturient montes nascetur ridiculus mus mauris vitae ultricies. Sit amet commodo nulla facilisi nullam vehicula ipsum. here's a sample event for you! Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non curabitur gravida arcu ac. Velit laoreet id donec ultrices tincidunt arcu. Parturient montes nascetur ridiculus mus mauris vitae ultricies. Sit amet commodo nulla facilisi nullam vehicula ipsum.
+
+    another paragraph in the sample event! [with another link](https://en.wikipedia.org/wiki/Daiki_Suzuki)
 
 - date: July 20, 2023
   iso_date: 2023-07-20
