@@ -293,7 +293,7 @@ h1 {
 
 
 
-footer {
+footer div {
   max-width: 960px;
   width: 90%;
   margin: 2rem auto;
@@ -307,7 +307,7 @@ footer.events-footer {
   display: block;
 }
 
-footer button, footer a {
+footer button, footer a.button {
   background-color: black;
   color: var(--theme-color);
   border: none;
@@ -320,8 +320,12 @@ footer button, footer a {
   height: 3.5rem;
 }
 
-footer a {
+footer .button {
   margin-left: 6rem;
+}
+
+footer .privacy-links a {
+  margin: 0 3rem;
 }
 
 #popup {
