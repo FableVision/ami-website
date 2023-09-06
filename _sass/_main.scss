@@ -25,6 +25,15 @@ body {
   background-color: var(--theme-color);
 }
 
+.center-container {
+  max-width: 960px;
+  margin: auto;
+  line-height: 1.4;
+}
+.center-container p {
+  white-space: break-spaces;
+}
+
 
 header {
   display: flex;

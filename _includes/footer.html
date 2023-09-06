@@ -1,4 +1,29 @@
 
 <footer>
-  <button>Join us</button><a href="/events">Events</a>
+  <button onclick="showPopup()">Join us</button><a href="/events">Events</a>
 </footer>
+
+    <script src="https://t72d9104b.emailsys1a.net/form/224/269/c391162133/popup.js?_g=1693943413" async onload="loaded()"></script>
+
+<script type="text/javascript">
+
+  let popup;
+
+  function loaded() {
+    console.log('loaded!');
+    let parent = document.getElementById('rmOrganism');
+    popup = parent.querySelector('.rmPopup__container');
+    window.setTimeout(() => {
+      parent.style.display = 'block';
+      popup.classList.remove('rmPopup--show');
+    }, 10);
+  }
+  function showPopup() {
+    popup.classList.add('rmPopup--show');
+  }
+</script>
+<style type="text/css">
+  #rmOrganism {
+    display: none;
+  }
+</style>
