@@ -3,7 +3,7 @@ title: "Creaviva Projekt 2: Kollektives NFT"
 year: 2023
 lang: en
 assets_folder: 'creaviva-project-2'
-thumbnail: "Creaviva_web_8.jpg"
+thumbnail: "2_Creaviva_Thumbnail (1).jpg"
 carousel: ["Creaviva_web_1.jpg","Creaviva_web_2.jpg","Creaviva_web_3.jpg","Creaviva_web_4.jpg","Creaviva_web_5.jpg","Creaviva_web_6.jpg","Creaviva_web_7.jpg"]
 design_doc: https://www.fablevision.com/
 ---
