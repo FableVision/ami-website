@@ -3,7 +3,7 @@ title: "Rietberg Projekt 1: Das Ragamala-Labor"
 year: 2023
 lang: en
 assets_folder: 'ragamala-lab'
-thumbnail: "BB7C34EC-1D72-4218-A8B0-220D93B72D2C.png"
+thumbnail: "0_Rietberg_web_thumbnail.jpg"
 carousel: ["Rietberg_web_1.jpeg","Rietberg_web_2.jpeg","RIetberg_web_3.jpg","RIetberg_web_4.jpg","Rietberg_web_5.jpg","Rietberg_web_6.jpeg","Rietberg_web_7.jpg","Rietberg_web_8.jpg"]
 design_doc: https://www.fablevision.com/
 ---
