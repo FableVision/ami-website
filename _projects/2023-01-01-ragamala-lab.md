@@ -1,5 +1,5 @@
 ---
-title: "Rietberg Projekt 1: Das Ragamala-Labor"
+title: "Projekt 1: Das Ragamala-Labor"
 year: 2023
 lang: en
 assets_folder: 'ragamala-lab'
