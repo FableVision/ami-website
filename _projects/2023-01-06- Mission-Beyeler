@@ -4,7 +4,7 @@ year: 2023
 lang: en
 assets_folder: 'ami-website/img/new-project/'
 thumbnail: "Beyeler Stamps.png"
-carousel: ["SFMoMA_web_1.jpg","SFMoMA_web_2.png","SFMoMA_web_3.jpg","SFMoMA_web_4.png","SFMoMA_web_5.jpeg","SFMoma_web_6.jpeg","SFMoMA_web_7.jpg","SFMoMA_web_8.jpeg","SFMoMA_web_9.png"]
+carousel: ["Beyeler_stamp_test_web _1.jpg","Beyeler_stamp_test_web _2.jpg","Beyeler_stamp_test_web _3.jpg","Beyeler_stamp_test_web _4.jpg","Beyeler_stamp_test_web _5.jpg","Beyeler_stamp_test_web _6.jpg","Beyeler_stamp_test_web _7.jpg","Beyeler_stamp_test_web _8.jpg","SFMoMA_web_9.png"]
 design_doc: https://www.fablevision.com/
 ---
 
