@@ -3,7 +3,7 @@ title: "Projekt 6: Mission Beyeler"
 year: 2023
 lang: en
 assets_folder: 'ami-website/img/new-project/'
-thumbnail: "Beyeler Stamps.png"
+thumbnail: "Beyeler_Stamp_Thumbnail.jpg"
 carousel: ["Beyeler_stamp_test_web _1.jpg","Beyeler_stamp_test_web _2.jpg","Beyeler_stamp_test_web _3.jpg","Beyeler_stamp_test_web _4.jpg","Beyeler_stamp_test_web _5.jpg","Beyeler_stamp_test_web _6.jpg","Beyeler_stamp_test_web _7.jpg","Beyeler_stamp_test_web _8.jpg","SFMoMA_web_9.png"]
 design_doc: https://www.fablevision.com/
 ---
