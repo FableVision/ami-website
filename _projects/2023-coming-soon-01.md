@@ -5,7 +5,7 @@ lang: en
 assets_folder: 'new-project'
 thumbnail: "Wireframe_Thumbnail_Web_1.png"
 carousel: ["Wireframe_Web_1.jpg","Wireframe_Web_2.jpg","Wireframe_Web_3.jpg","Wireframe_Web_4.jpg","Wireframe_Web_5.jpg"]
-design_doc: 
+design_doc: "Look at the Design Doc (GDD)"
 ---
 
 coming_soon: true
