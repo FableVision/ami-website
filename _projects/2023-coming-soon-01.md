@@ -5,6 +5,8 @@ lang: en
 assets_folder: 'new-project'
 thumbnail: "Wireframes_Thumbnail.png"
 carousel:
-coming_soon: true
+design doc: 
 ---
+coming_soon: true
+
 
