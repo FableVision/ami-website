@@ -3,7 +3,7 @@ title: "Creaviva: Drahtgitter"
 year: 2023
 lang: en
 assets_folder: 'new-project'
-thumbnail: "Wireframes_Thumbnail 1.png"
+thumbnail: "Wireframes Thumbnail.png"
 carousel:
 design_doc: 
 ---
