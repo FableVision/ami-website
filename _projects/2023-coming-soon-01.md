@@ -9,5 +9,3 @@ design_doc:
 ---
 
 coming_soon: true
-
-
