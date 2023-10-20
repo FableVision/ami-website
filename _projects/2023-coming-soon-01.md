@@ -4,7 +4,7 @@ year: 2023
 lang: en
 assets_folder: 'new-project'
 thumbnail: "Wireframes Thumbnail Web.png"
-carousel:
+carousel: "Wireframe_Web_1.jpg"
 design_doc: 
 ---
 
