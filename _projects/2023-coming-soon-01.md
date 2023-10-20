@@ -1,5 +1,5 @@
 ---
-title: "Rietberg Project 1: The Ragamala Lab"
+title: "Creaviva: Drahtgitter"
 year: 2023
 lang: en
 assets_folder: 'ragamala-lab'
