@@ -8,8 +8,8 @@ logo: ami_logo_green.png
 ---
 # Impressum
 
-Max Kohler Stiftung (Inhaberin der Project AMI-Website)        Redaktion:  Kellian Adams Pletcher, Fatiah Bürkner
-Schifflände 5                                                  Gestaltung: Bob Flynn (FableVision Studios)
+Max Kohler Stiftung (Inhaberin der Project AMI-Website)
+Schifflände 5
 CH – 8001 Zürich
 Info@maxkohler-stiftung.ch
 
