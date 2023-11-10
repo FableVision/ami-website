@@ -43,7 +43,7 @@ In der Regel erheben wir Personendaten in folgenden Fällen: Wenn Sie einen För
 
 ### Geben wir Ihre Personendaten weiter?
 
-Ihre personenbezogenen Daten werden von uns grundsätzlich nur dann an andere Dritte weitergegeben, wenn wir gesetzlich dazu berechtigt sind oder Sie uns Ihre Einwilligung hierfür gegeben haben. Dies ist beispielsweise der Fall, wenn wir in Vereinbarung mit Ihnen externe Projektevaluationen durchführen. Weitere Informationen dazu finden sich in der Fördervereinbarung. Soweit Daten ins Ausland bekannt gegeben werden, stellen wir sicher, dass wir die diesbezüglichen gesetzlichen Vorgaben einhalten (Gewährleistung eines angemessenen Schutzes).
+Ihre personenbezogenen Daten werden von uns grundsätzlich nur dann an andere Dritte weitergegeben, wenn wir gesetzlich dazu berechtigt sind oder Sie uns Ihre Einwilligung hierfür gegeben haben. Dies ist beispielsweise der Fall, wenn wir in Vereinbarung mit Ihnen externe Projektevaluationen durchführen. Weitere Informationen dazu finden sich in der Fördervereinbarung. Soweit Daten ins Ausland bekannt gegeben werden, stellen wir sicher, dass wir die diesbezüglichen gesetzlichen Vorgaben einhalten (Gewährleistung eines angemessenen Schutzes). Werden Daten in einen Staat ohne angemessenen Schutz nach Art. 16 Abs. 1 DSG bekanntgegeben, haben wir durch anerkannte Standardvertragsklauseln gemäss Art. 16 Abs. 2 lit. d DSG einen geeigneten Datenschutz gewährleistet. Dies gilt insbesondere für die Zusammenarbeit mit FableVision mit Sitz in den USA. 
 
 Externe Dienstleister, die in unserem Auftrag Daten verarbeiten, sind im Sinne des Bundesgesetzes über den Datenschutz vertraglich streng verpflichtet.
 
