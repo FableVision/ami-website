@@ -1,5 +1,6 @@
 ---
-title: "Creaviva: \nKollektives NFT"
+title: |Creaviva:
+  Kollektives NFT
 year: 2023
 lang: en
 assets_folder: 'creaviva-project-2'
