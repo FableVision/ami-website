@@ -1,5 +1,6 @@
 ---
-title: |Creaviva:
+title: |
+  Creaviva:
   Kollektives NFT
 year: 2023
 lang: en
