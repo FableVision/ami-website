@@ -5,8 +5,8 @@ title: |
 year: 2023
 lang: en
 assets_folder: 'new-project'
-thumbnail: "Wireframe_Web_Thumbnail_1.jpg"
-carousel: ["Wireframe_Web_1.jpg","Wireframe_Web_2.1.jpg","Wireframe_Web_3.jpg","Wireframe_Web_4.jpg","Wireframe_Web_5.jpg","Wireframe_Web_6.jpg","Wireframe_Web_7.jpg"]
+thumbnail: "Paper_testing_1.jpg"
+carousel: ["Paper_testing_1.jpg","Paper_testing_2.jpg","Paper_testing_3.jpg","Wireframe_Web_1.jpg","Wireframe_Web_2.jpg","Wireframe_Web_3.jpg","Wireframe_Web_4.jpg"]
 design_doc: https://docs.google.com/presentation/d/1Q7bFDtAhHOomvfvQCGXXdd68JcUWrVkvtMmm7KlpLgc/edit?usp=sharing)
 ---
 
