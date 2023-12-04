@@ -5,8 +5,8 @@ title: |
 year: 2023
 lang: en
 assets_folder: 'new-project'
-thumbnail: "Paper_testing_1.jpeg"
-carousel: ["Paper_testing_1.jpeg","Paper_testing_2.jpeg","Paper_testing_3.jpeg","Wireframe_Web_1.jpg","Wireframe_Web_2.jpg","Wireframe_Web_3.jpg","Wireframe_Web_4.jpg"]
+thumbnail: "CreavivaCycle2_img2.jpeg"
+carousel: ["CreavivaCycle2_img2.jpeg","CreavivaCycle2_img1.jpeg","CreavivaCycle2_img3.jpeg","Wireframe_Web_1.jpg","Wireframe_Web_2.jpg","Wireframe_Web_3.jpg","Wireframe_Web_4.jpg"]
 design_doc: https://docs.google.com/presentation/d/1Q7bFDtAhHOomvfvQCGXXdd68JcUWrVkvtMmm7KlpLgc/edit?usp=sharing)
 ---
 
