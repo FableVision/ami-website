@@ -10,4 +10,12 @@
 - name: SFMoMA
   url: https://www.sfmoma.org/
   image: fellows_04.png
-
+- name: Landesmuseum
+  url: https://www.landesmuseum.ch
+  image: fellows_05.png
+- name: Aargauer Kunstmuseum
+  url: https://www.aargauerkunsthaus.ch/
+  image: fellows_06.png
+- name: Kunstmuseum St Gallen
+  url: https://www.kunstmuseumsg.ch/
+  image: fellows_07.png
