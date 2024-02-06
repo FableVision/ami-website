@@ -5,7 +5,7 @@ lang: en
 assets_folder: 'creaviva-project-9'
 thumbnail: creaviva_9_thumb.png"
 carousel: ["CATegories_1.png","CATegories_2.png","CATegories_3.png","CATegories_4.png","CATegories_5.png","CATegories_6.png","CATegories_7.png","CATegories_8.png"]
-design_doc: https://docs.google.com/presentation/d/1GXgc90kLn8Ksq9LCDPL74SHzVIon2Ffx8Rlw2sS2Lg4/edit?usp=sharing
+design_doc: https://docs.google.com/presentation/d/1UhJejcn1D4HMAXODqv3lkfhuPdifE6b1L0W0Jbiapks/edit?usp=sharing
 ---
 
 Based on the paper prototype from our previous project with Creaviva and the Paul Klee Center team, we built a digital “CATegories” game to be played via mobile device within the galleries. There were some big changes to the game: we created an image of Paul Klee (with a cat of course) that was progressively uncovered as players got more answers correct. We also changed the feedback loop so that players could only know if their answer was correct if they completed all four entries. This variation ended up being more frustrating than helpful for players since they would have to return to their original locations to find where they were wrong but this is exactly why we experiment and test! The Creaviva and Paul Klee team wrestled with important questions in art education and gameplay such as, “do we allow there to be a “correct” answer?” and “Who decides what’s right?” Playtesting showed that visitors liked having a correct answer to aim for but had meaningful discussions about whether they agreed with the answer. 
