@@ -5,7 +5,7 @@ lang: en
 assets_folder: 'beyeler-projekt-10'
 thumbnail: "beyeler_10_thumb.png"
 carousel: 
-design_doc: https://docs.google.com/presentation/d/1GXgc90kLn8Ksq9LCDPL74SHzVIon2Ffx8Rlw2sS2Lg4/edit?usp=sharing
+design_doc: https://docs.google.com/presentation/d/1AVnRX27J19kzYGOao6wiSEd5HDAKZhdRmZrJh_EAx0U/edit?usp=sharing
 ---
 
 Previously, The Fondation Beyeler worked with the Swiss board game company, Carlit to build a great card game called “Speed Art”. For our final AMI prototype of 2023, we worked with the Beyeler team to create a digital version of this successful card game, which could be shared for free on their website. The game was designed on mobile web, with the idea that it would be played on an ipad with school groups or inside the art atelier at the museum. The player looks at six different pieces of art from the Beyeler collection and identifies categories that these pieces might fall within: animals, people, landscapes or still-life. Players match three pieces into a category to win points. The game has a time limit of 2 minutes and a high replay value. Gameplay related to categorization was a similar concept to Creaviva and the Klee Center’s CATegories but built for a very different environment. 
