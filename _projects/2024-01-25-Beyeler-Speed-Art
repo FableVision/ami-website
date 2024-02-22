@@ -4,7 +4,7 @@ year: 2023
 lang: en
 assets_folder: 'beyeler-projekt-10'
 thumbnail: "beyeler_10_thumb.png"
-carousel: 
+carousel: ["speed art 1.png","speed art 2.png",'speed art 3.png","speed art 4.png","speed art 5.png","speed art 6.png"]
 design_doc: https://docs.google.com/presentation/d/1AVnRX27J19kzYGOao6wiSEd5HDAKZhdRmZrJh_EAx0U/edit?usp=sharing
 ---
 
