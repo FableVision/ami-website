@@ -1,10 +1,15 @@
-- date: 05-16-2024 | PlayTest Landesmuseum Zürich
+- date: 05-16-2024 
   iso_date: 2024-16-05
-  description: "Weitere Informationen zur Veranstaltung folgen in Kürze!"  
+  description:| 
+  # PlayTest Landesmuseum Zürich
+  Weitere Informationen zur Veranstaltung folgen in Kürze!  
   
-- date: 04-04-2024 | PlayTest Aargauer Kunsthaus 
+- date: 04-04-2024  
   iso_date: 2024-04-04
-  description: "16:00 - 18:00 Uhr inkl. Apéro 
+  description:| 
+  # PlayTest Aargauer Kunsthaus 
+  
+  16:00 - 18:00 Uhr inkl. Apéro 
 
   
   Aargauer Kunsthaus
@@ -32,11 +37,14 @@
   Bei einem Apéro mit Zeit und Raum für weitere Gespräche lassen wir den Abend ausklingen.
  
   
-  Wir freuen uns auf Deine Teilnahme!"
+  Wir freuen uns auf Deine Teilnahme!
   
-- date: 07-03-2024 | PlayTest Landesmuseum Zürich 
+- date: 07-03-2024
   iso_date: 2024-03-07
-  description: "15:30 - 17:30 Uhr inkl. Apéro 
+  description:| 
+  PlayTest Landesmuseum Zürich 
+  
+  15:30 - 17:30 Uhr inkl. Apéro 
   
 
   Landesmuseum Zürich 
@@ -61,4 +69,4 @@
   Anschliessend lassen wir den PlayTest mit einem Apéro ausklingen, wo es Zeit und Raum für weitere Gespräche gibt.
 
   
-  Wir freuen uns auf Deine Teilnahme!"
+  Wir freuen uns auf Deine Teilnahme!
