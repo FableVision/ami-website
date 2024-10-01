@@ -3,8 +3,8 @@ title: "MoMa: Die Kunstsammler-Serie"
 year: 2024
 lang: en
 assets_folder: 'MoMa-project-artCollector'
-thumbnail: "IMG_9797 2.HEIC"
-carousel: ["image copy 3.png","IMG_9796.HEIC","AMI_LandingScreen_forNewsletter.png","IMG_9798.HEIC","IMG_9800.HEIC","IMG_9805.HEIC","IMG_9811.HEIC","IMG_9812.HEIC"]
+thumbnail: "IMG_9797 2.png"
+carousel: ["image copy 3.png","IMG_9796.png","AMI_LandingScreen_forNewsletter.png","IMG_9798.png","IMG_9800.png","IMG_9805.png","IMG_9811.png","IMG_9812.png"]
 design_doc: https://docs.google.com/presentation/d/11lu8hCJo-7powx8dMpliXxrymxtU1P-cd6v_q9pZ6PE/edit#slide=id.g11ac7a2a613_0_159
 
 ---
