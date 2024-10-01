@@ -4,7 +4,7 @@ year: 2024
 lang: en
 assets_folder: 'StGallen-project-mysteryInTheMuseum'
 thumbnail: "IMG_0569.JPG"
-carousel: ["IMG_9328.HEIC","IMG_0566.JPG","IMG_9330.HEIC","IMG_9344.HEIC","IMG_0562.JPG","IMG_9351.HEIC","IMG_0561.JPG", "IMG_9355.HEIC"]
+carousel: ["IMG_9328.png","IMG_0566.JPG","IMG_9330.png","IMG_9344.png","IMG_0562.JPG","IMG_9351.png","IMG_0561.JPG", "IMG_9355.png"]
 design_doc: 
 ---
 
