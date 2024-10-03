@@ -5,7 +5,7 @@ title: |
 year: 2023
 lang: en
 assets_folder: 'new-project'
-thumbnail: "Creaviva_Cycle 2_Thumbnail.jpeg"
+thumbnail: "creaviva-color-correct.jpg"
 carousel: ["Papertesting_1.jpeg","Papertesting_2.jpeg","Papertesting_3.jpeg","Wireframe_Web_1.jpg","Wireframe_Web_3.jpg","Wireframe_Web_4.jpg"]
 design_doc: https://docs.google.com/presentation/d/1Q7bFDtAhHOomvfvQCGXXdd68JcUWrVkvtMmm7KlpLgc/edit?usp=sharing)
 ---
