@@ -2,9 +2,9 @@
 title: "Aargauer Kunsthaus: Kunst-Persönlichkeitsquiz"
 year: 2024
 lang: en
-assets_folder: 'Aargauer-project-personalityQuiz'
+assets_folder: 'aargau-art-quiz'
 thumbnail: "aargau-edited.jpg"
-carousel: ["Aargau animals June 2024.jpg","IMG_9473.HEIC","PXL_20240711_143404064.jpg","PXL_20240711_143708352.jpg","PXL_20240711_145247086.jpg","WhatsApp Image 2024-07-12 at 10.10.23 (3).jpeg","637892928-pxl_20240711_141144235.jpg","WhatsApp Image 2024-07-12 at 10.10.24 (7).jpeg"]
+carousel: ["Aargau animals June 2024.jpg","IMG_9473.jpg","PXL_20240711_143404064.jpg","PXL_20240711_143708352.jpg","PXL_20240711_145247086.jpg","WhatsApp Image 2024-07-12 at 10.10.24 (3).jpeg","637892928-pxl_20240711_141144235.jpg","WhatsApp Image 2024-07-12 at 10.10.24 (7).jpeg"]
 design_doc: 
 ---
 
