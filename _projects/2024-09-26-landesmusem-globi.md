@@ -2,7 +2,7 @@
 title: "Landesmuseum Zürich: Globi im Museum"
 year: 2024
 lang: en
-assets_folder: 'Landesmuseum-project-Globi'
+assets_folder: 'landesmuseum-globi-fixed'
 thumbnail: "globi-new-cover.jpg"
 carousel: ["Globi Cards V1.png","IMG_0424.jpeg","IMG_0425.jpeg","image.png","IMG_0429.jpeg","IMG_0439.jpeg","IMG_0448.jpeg","IMG_3854.jpeg"]
 design_doc: https://docs.google.com/presentation/u/5/d/1iBQiu0Rf3YFvw-DIhKabLnhQQFm1V0aR4h7ydTfijlM/edit#slide=id.g11ac7a2a613_0_79
