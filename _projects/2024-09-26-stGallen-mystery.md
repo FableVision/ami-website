@@ -2,7 +2,7 @@
 title: "Kunstmuseum St. Gallen: Rätsel im Museum"
 year: 2024
 lang: en
-assets_folder: 'StGallen-project-mysteryInTheMuseum'
+assets_folder: 'st-gallen-escape'
 thumbnail: "escape-room-edited.jpg"
 carousel: ["IMG_9328.png","IMG_0566.JPG","IMG_9330.png","IMG_9344.png","IMG_0562.JPG","IMG_9351.png","IMG_0561.JPG", "IMG_9355 (1).png"]
 design_doc: 
