@@ -9,7 +9,7 @@ logo: ami_logo_lemon.png
 
 <div class="events-container">
   {% assign events = site.data.events | sort: "iso_date" %}
-  {% for event in events %}
+  {% for event in events reversed %}
   <div class="event">
     <time datetime="{{ event.iso_date }}">{{ event.date }}</time>
     <div>{{ event.description | markdownify }}</div>
