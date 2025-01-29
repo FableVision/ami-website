@@ -1,5 +1,5 @@
 ---
-title: "Zeitstrahl Landesmuseum"
+title: "Landesmuseum Zürich: Zeitstrahl"
 year: 2024
 lang: en
 assets_folder: 'timeline'
